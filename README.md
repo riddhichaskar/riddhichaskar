@@ -27,18 +27,22 @@ I am currently seeking **full stack development internship opportunities** where
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" width="32"/>
 </p>
 
+---
+
 #### ⚙️ Backend & Data  
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="32"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="32"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="32"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/powerbi.svg" width="32"/>
 </p>
 
-- FastAPI  
 - RESTful API Design  
-- Matplotlib  
-- Power BI  
+
+---
 
 #### 🧰 Tools & Technologies  
 <p>
@@ -73,7 +77,8 @@ I am currently seeking **full stack development internship opportunities** where
 ---
 
 ### 🚀 Open To  
-- Full Stack Development Internships  
+- Full Stack Development Internships
+- Frontend Development Roles  
 - Backend / API Development Roles  
 - Collaborative Engineering Projects  
 
