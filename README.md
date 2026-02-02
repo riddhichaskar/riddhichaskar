@@ -1,11 +1,11 @@
-<h1 align="center">Full Stack Developer | B.Tech Undergraduate</h1>
+<h1 align="center">👩‍💻 Full Stack Developer | 🎓 B.Tech Undergraduate</h1>
 <p align="center">
   Building reliable web systems with clean design and scalable backend logic.
 </p>
 
 ---
 
-### About Me  
+### 👋 About Me  
 I am a **3rd-year B.Tech undergraduate** with hands-on experience in **full stack web development**.  
 I work across the entire development lifecycle — from designing intuitive user interfaces to building efficient backend systems and APIs.
 
@@ -16,33 +16,48 @@ I am currently seeking **full stack development internship opportunities** where
 
 ---
 
-### Technical Skills  
+### 🛠️ Technical Skills  
 
-**Frontend**  
-- React, Next.js  
-- JavaScript, TypeScript  
-- Three.js *(foundational)*  
+#### 🎨 Frontend  
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" width="32"/>
+</p>
 
-**Backend & Data**  
-- Python, FastAPI, Django  
-- RESTful API design  
-- NumPy, Pandas, Matplotlib  
+#### ⚙️ Backend & Data  
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="32"/>
+</p>
+
+- FastAPI  
+- RESTful API Design  
+- Matplotlib  
 - Power BI  
 
-**Tools & Technologies**  
-- Java *(Spring Boot – foundational)*  
-- Git & GitHub  
-- Figma, Canva  
-- WordPress  
+#### 🧰 Tools & Technologies  
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="32"/>
+</p>
 
 ---
 
-### Achievements  
-- **1st place** in a **State-Level Project Competition**
+### 🏆 Achievements  
+- 🥇 **1st place** in a **State-Level Project Competition**
 
 ---
 
-### Training  
+### 🎓 Training  
 - **Student Intern – Sumago Infotech Pvt. Ltd.**  
   Worked on full stack web development, contributing to frontend interfaces using **React and JavaScript**, and backend services using **Python**.
 
@@ -51,13 +66,13 @@ I am currently seeking **full stack development internship opportunities** where
 
 ---
 
-### Internships  
+### 💼 Internships  
 - **AI Research Intern** – AICTE Shell Virtual Internship  
 - **Frontend Developer Intern** – Upscalers Tech *(Hybrid)*  
 
 ---
 
-### Open To  
+### 🚀 Open To  
 - Full Stack Development Internships  
 - Backend / API Development Roles  
 - Collaborative Engineering Projects  
@@ -70,6 +85,6 @@ I am currently seeking **full stack development internship opportunities** where
 
 ---
 
-Socials:
-https://www.linkedin.com/in/riddhi-chaskar/
-riddhichaskar750@gmail.com
+### 🌐 Socials  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/riddhi-chaskar/)  
+- 📧 riddhichaskar750@gmail.com
